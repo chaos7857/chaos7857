@@ -1,13 +1,14 @@
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=chaos7857&show_icons=true&count_private=false&theme=vue-dark" /> -->
 
 ### Hi there 👋
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chaos7857&hide_border=true" />
+<div align="center" >
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaos7857&hide_border=true" />
 </div>
 <div align="center">
     <img height = "137px" src="https://github-readme-stats.vercel.app/api?username=chaos7857&show_icons=true&count_private=false" />
     <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaos7857&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 </div>
-<div align="center" >
+
 
 
 
