@@ -11,18 +11,31 @@
 
 
 ## 🔭 I’m currently studying
-<details>
-<summary></summary>
-</details>
+- [ ] 大模型搭建与应用
+- [ ] 基于大模型的机械臂控制
+- [ ] esp8266开发
+### JavaWeb
+- [ ] 深入spring+mybatis+springMVC+springBoot
+- [ ] 苍穹外卖
+- [ ] 微服务全套（MybatisPlu、docker、MQ、ES、Redis）
+- [ ] 学成在线
+- [ ] 黑马头条 
 
 ## 😄 I've learned
-<details>
-<summary></summary>
-</details>
+
+### 语言基础
+C、C++、Java、Python、HTMl+CSS+JavaScript
+
+### 应用场景
+- 基于python的数据爬取
+- 基于jsp+mysql+servlet的网页开发
+- 简易的spring网页开发
+- 基于Java的Android应用开发
+- 基于python的神经网络算法及大模型应用
 
 ## 👯 about me
 <details>
-<summary></summary>
+<summary>作品</summary>
 </details>
 
 <!--
@@ -47,7 +60,7 @@ Here are some ideas to get you started:
 <!-- <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaos7857&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /> -->
 
 
- 
+
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=chaos7857&show_icons=true&count_private=false" /> -->
 
