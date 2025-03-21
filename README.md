@@ -1,6 +1,8 @@
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=chaos7857&show_icons=true&count_private=false&theme=vue-dark" /> -->
 
 ### Hi there 👋
+Undergraduate student passionate about neural network algorithms.
+
 <div align="center" >
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaos7857&hide_border=true" />
 </div>
