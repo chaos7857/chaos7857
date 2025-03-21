@@ -1,6 +1,10 @@
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=chaos7857&show_icons=true&count_private=false&theme=vue-dark" /> -->
 
 ### Hi there 👋
+## 👯 about me
+<!--<details>
+<summary>作品</summary>
+</details>-->
 Undergraduate student passionate about neural network algorithms.
 
 <div align="center" >
@@ -33,10 +37,7 @@ C、C++、Java、Python、HTMl+CSS+JavaScript、vue3、nodejs、docker、spring+
 - 基于diffusion的生成
 - 具身智能
 
-## 👯 about me
-<details>
-<summary>作品</summary>
-</details>
+
 
 <!--
 **chaos7857/chaos7857** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
