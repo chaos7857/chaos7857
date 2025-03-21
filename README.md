@@ -13,27 +13,23 @@
 
 
 ## 🔭 I’m currently studying
-- [ ] 大模型搭建与应用
-- [ ] 基于大模型的机械臂控制
-- [ ] esp8266开发
-### JavaWeb
-- [ ] 深入spring+mybatis+springMVC+springBoot
-- [ ] 苍穹外卖
-- [ ] 微服务全套（MybatisPlu、docker、MQ、ES、Redis）
-- [ ] 学成在线
-- [ ] 黑马头条 
+
 
 ## 😄 I've learned
 
-### 语言基础
-C、C++、Java、Python、HTMl+CSS+JavaScript
+### 工具基础
+C、C++、Java、Python、HTMl+CSS+JavaScript、vue3、nodejs、docker、spring+mybatis+springMVC+springBoot
 
 ### 应用场景
 - 基于python的数据爬取
 - 基于jsp+mysql+servlet的网页开发
-- 简易的spring网页开发
+- spring网页开发
 - 基于Java的Android应用开发
-- 基于python的神经网络算法及大模型应用
+
+- yolo等检测分割模型的改进
+- 商务数据分析模型搭建及微调训练
+- 基于diffusion的生成
+- 具身智能
 
 ## 👯 about me
 <details>
