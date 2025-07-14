@@ -1,79 +1,73 @@
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=chaos7857&show_icons=true&count_private=false&theme=vue-dark" /> -->
-
 ### Hi there 👋
-## 👯 about me
-Undergraduate student passionate about neural network algorithms.
 
+## 🤔 About me
+Undergraduate student passionate about neural network algorithms.  
+
+To make an AI that composes poems and paints work like a beast of burden
 
 <!-- clone from liyupi -->
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=chaos7857&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaos7857&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=chaos7857&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaos7857&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+
+<!-- ------------------------------------------------------ -->
+
+## 😄 Projects
+
+> 内容正在补全完善中
+
+### LR
+<details>
+<summary>diffusion + 知识图谱 + 推荐系统</summary>
+123
+</details>
+
+<!-- ------------------------------------------------------ -->
+<details>
+<summary>diffusion 图像生成</summary>
+123
+</details>
+
+<!-- ------------------------------------------------------ -->
+<details>
+<summary>具身</summary>
+	<img src="./asset/README/2024-08-28 00-54-02 的屏幕截图.png" style="width:45%"
+         alt="仿真"/>
+    <img src="./asset/README/Figure_1.png" style="width:45%"
+         alt="数据分析"/>
+    <img src="./asset/README/Snipaste_2025-07-14_18-28-39.png" style="width:45%"
+         alt="真机实验"/>
+    <img src="./asset/README/Snipaste_2025-07-14_18-29-14.png" style="width:45%"
+         alt="真机实验"/>
+</details>
+<!-- ------------------------------------------------------ -->
+
+<details>
+<summary>目标检测</summary>
+1
+</details>
+<!-- ------------------------------------------------------ -->
+<details>
+<summary>HFUT校门三维重建</summary>
+nerf vs 3dgs 
+</details>
+<!-- ------------------------------------------------------ -->
+
+<details>
+<summary>评论爬取 + 销量预测</summary>
+	<img src="./asset/README/method-1752487975116-3.png" 
+         alt=""
+         style="width:45%"/>
+    <img src="./asset/README/2.png" alt="" style="width:45%"/>
+    <img src="./asset/README/5.png" alt="" style="width:70%"/>
+</details>
 
 
+### Web
 
-<!--<details>
-<summary>作品</summary>
-</details>-->
+<details>
+<summary>Java spring + Vue3 校园周边美食分享系统</summary>
+	<img src="./asset/README/image-20250714183654506.png" alt="" style="width:45%"/>
+    <img src="./asset/README/image-20250714183738838.png" alt="" style="width:45%"/>
+    <img src="./asset/README/image-20250714183815313.png" alt="" style="width:45%"/>
+    <img src="./asset/README/image-20250714183847999.png" alt="" style="width:45%"/>
+</details>
 
-<!-- <div align="center" >
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaos7857&hide_border=true" />
-</div> -->
-<!-- <div align="center">
-    <img height = "137px" src="https://github-readme-stats.vercel.app/api?username=chaos7857&show_icons=true&count_private=false" />
-    <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaos7857&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-</div> -->
-
-<!-- ## 🔭 I’m currently studying -->
-
-
-## 😄 I've learned
-
-### 工具基础
-C、C++、Java、Python、HTMl+CSS+JavaScript、vue3、nodejs、docker、spring+mybatis+springMVC+springBoot、小程序
-
-### 应用场景
-- 基于python的数据爬取
-- 基于jsp+mysql+servlet的网页开发
-- spring网页开发->素材管理平台
-- 基于Java的Android应用开发->自建备忘录app
-
-- yolo等检测分割模型的改进->桥梁裂缝检测
-- 商务数据分析模型搭建及微调训练->su7销量0shot预测
-- 基于diffusion的生成
-- 具身智能
-
-
-
-<!--
-**chaos7857/chaos7857** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## 今年汇总 ✨
-
-
-
-
-
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=chaos7857&show_icons=true&count_private=false" /> -->
-
-
-<!-- ![Github统计](https://github-readme-stats.vercel.app/api?username=Zyronon&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-[![Star History Chart](https://api.star-history.com/svg?repos=chaos7857/chaos7857&type=Date)](https://star-history.com/#chaos7857/chaos7857&Date)
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=chaos7857" width="auto"></img>
-![](https://count.getloli.com/get/@chaos7857.github.readme) 
--->
-<!-- <img src="https://profile-counter.glitch.me/chaos7857/count.svg">   -->
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=chaos7857" alt="chaos7857"/>
