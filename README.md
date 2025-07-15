@@ -6,7 +6,7 @@ Undergraduate student passionate about neural network algorithms.
 To make an AI that composes poems and paints work like a beast of burden
 
 <!-- clone from liyupi -->
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=chaos7857&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaos7857&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+<img align="" ht="137px" src="https://github-readme-stats.vercel.app/api?username=chaos7857&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaos7857&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 <!-- ------------------------------------------------------ -->
 
@@ -19,10 +19,10 @@ To make an AI that composes poems and paints work like a beast of burden
 <summary>diffusion + 知识图谱 + 推荐系统</summary>
 123
 </details>
-
 <!-- ------------------------------------------------------ -->
+
 <details>
-<summary>diffusion 图像生成</summary>
+<summary>stable diffusion 图像生成</summary>
 123
 </details>
 
@@ -38,19 +38,26 @@ To make an AI that composes poems and paints work like a beast of burden
     <img src="./asset/README/Snipaste_2025-07-14_18-29-14.png" style="width:45%"
          alt="真机实验"/>
 </details>
-<!-- ------------------------------------------------------ -->
 
+<!-- ------------------------------------------------------ -->
+<details>
+<summary>nanoGPT 百年孤独</summary>
+123
+</details>
+
+<!-- ------------------------------------------------------ -->
 <details>
 <summary>目标检测</summary>
 1
 </details>
+
 <!-- ------------------------------------------------------ -->
 <details>
 <summary>HFUT校门三维重建</summary>
 nerf vs 3dgs 
 </details>
-<!-- ------------------------------------------------------ -->
 
+<!-- ------------------------------------------------------ -->
 <details>
 <summary>评论爬取 + 销量预测</summary>
 	<img src="./asset/README/method-1752487975116-3.png" 
@@ -64,10 +71,20 @@ nerf vs 3dgs
 ### Web
 
 <details>
-<summary>Java spring + Vue3 校园周边美食分享系统</summary>
+<summary>JavaSpring后端 + Vue3 校园周边美食分享系统</summary>
 	<img src="./asset/README/image-20250714183654506.png" alt="" style="width:45%"/>
     <img src="./asset/README/image-20250714183738838.png" alt="" style="width:45%"/>
     <img src="./asset/README/image-20250714183815313.png" alt="" style="width:45%"/>
     <img src="./asset/README/image-20250714183847999.png" alt="" style="width:45%"/>
 </details>
+<!-- ------------------------------------------------------ -->
+<details>
+<summary>Nodejs后端 + Vue3 +微信小程序 辅学系统</summary>
+123
+</details>
 
+<!-- ------------------------------------------------------ -->
+<details>
+<summary>JavaSpring后端 + ReactNative 日常工具APP</summary>
+123
+</details>
