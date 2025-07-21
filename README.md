@@ -12,7 +12,7 @@ To make an AI that composes poems and paints work like a beast of burden
 
 ## 😄 Projects
 
-> 内容正在补全完善中
+> 内容正在补全完善中（由于许多都是边学边做的，总结意识不是很强）
 
 ### LR
 <details>
@@ -29,35 +29,47 @@ To make an AI that composes poems and paints work like a beast of burden
 <!-- ------------------------------------------------------ -->
 <details>
 <summary>具身</summary>
-	<img src="./asset/README/2024-08-28 00-54-02 的屏幕截图.png" style="width:45%"
+	<img src="./asset/README/2024-08-28 00-54-02 的屏幕截图.png" style="height:137px"
          alt="仿真"/>
-    <img src="./asset/README/Figure_1.png" style="width:45%"
+    <img src="./asset/README/Figure_1.png" style="height:137px"
          alt="数据分析"/>
-    <img src="./asset/README/Snipaste_2025-07-14_18-28-39.png" style="width:45%"
+    <img src="./asset/README/Snipaste_2025-07-14_18-28-39.png" style="height:137px"
          alt="真机实验"/>
-    <img src="./asset/README/Snipaste_2025-07-14_18-29-14.png" style="width:45%"
+    <img src="./asset/README/Snipaste_2025-07-14_18-29-14.png" style="height:137px"
          alt="真机实验"/>
 </details>
 
 <!-- ------------------------------------------------------ -->
+
 <details>
 <summary>nanoGPT 百年孤独</summary>
-123
+	<img src="./asset/README/image-20250717200527296.png"
+         style="height:137px"/>
 </details>
 
 <!-- ------------------------------------------------------ -->
+
 <details>
 <summary>目标检测</summary>
 1
 </details>
-
 <!-- ------------------------------------------------------ -->
+
 <details>
 <summary>HFUT校门三维重建</summary>
-nerf vs 3dgs 
+    <div>
+        nerf + 3dgs 
+    </div>
+    <img src="./asset/README/453b1e9ed8e84a32ca3be30ce0524e62.jpeg"
+    style="height:137px"/>
+    <img src="./asset/README/4f35830cf647a667afa0444420866f63.jpeg"
+         style="height:137px"/>
+    <img src="./asset/README/002.png"
+         style="height:137px"/>
 </details>
 
 <!-- ------------------------------------------------------ -->
+
 <details>
 <summary>评论爬取 + 销量预测</summary>
 	<img src="./asset/README/method-1752487975116-3.png" 
