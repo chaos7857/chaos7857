@@ -25,8 +25,8 @@ To make an AI that composes poems and paints work like a beast of burden
 <summary>stable diffusion 图像生成</summary>
 123
 </details>
-
 <!-- ------------------------------------------------------ -->
+
 <details>
 <summary>具身</summary>
 	<img src="./asset/README/2024-08-28 00-54-02 的屏幕截图.png" style="height:137px"
@@ -51,8 +51,12 @@ To make an AI that composes poems and paints work like a beast of burden
 
 <details>
 <summary>目标检测</summary>
-1
+<img src="./asset/README/013.jpg"
+         style="height:137px"/>
+<img src="./asset/README/labels.jpg"
+         style="height:137px"/>
 </details>
+
 <!-- ------------------------------------------------------ -->
 
 <details>
