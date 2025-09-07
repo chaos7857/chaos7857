@@ -15,17 +15,6 @@ To make an AI that composes poems and paints work like a beast of burden
 > 内容正在补全完善中（由于许多都是边学边做的，总结意识不是很强）
 
 ### LR
-<details>
-<summary>diffusion + 知识图谱 + 推荐系统</summary>
-123
-</details>
-<!-- ------------------------------------------------------ -->
-
-<details>
-<summary>stable diffusion 图像生成</summary>
-123
-</details>
-<!-- ------------------------------------------------------ -->
 
 <details>
 <summary>具身</summary>
@@ -36,6 +25,8 @@ To make an AI that composes poems and paints work like a beast of burden
     <img src="./asset/README/Snipaste_2025-07-14_18-28-39.png" style="height:137px"
          alt="真机实验"/>
     <img src="./asset/README/Snipaste_2025-07-14_18-29-14.png" style="height:137px"
+         alt="真机实验"/>
+    <img src="./asset/README/483542987-7a212aca-8d6d-4c62-b692-e0cabe273b03.gif" style="height:137px"
          alt="真机实验"/>
 </details>
 
@@ -57,8 +48,6 @@ To make an AI that composes poems and paints work like a beast of burden
 <img src="./asset/README/193067B0080.jpg"
          style="height:137px"/>
 </details>
-
-
 <!-- ------------------------------------------------------ -->
 
 <details>
@@ -84,7 +73,18 @@ To make an AI that composes poems and paints work like a beast of burden
     <img src="./asset/README/2.png" alt="" style="width:45%"/>
     <img src="./asset/README/5.png" alt="" style="width:70%"/>
 </details>
+<!-- ------------------------------------------------------ -->
 
+<details>
+<summary>diffusion + 知识图谱 + 推荐系统</summary>
+123
+</details>
+<!-- ------------------------------------------------------ -->
+
+<details>
+<summary>stable diffusion 图像生成</summary>
+123
+</details>
 
 ### Web
 
