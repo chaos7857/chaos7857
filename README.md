@@ -46,16 +46,18 @@ To make an AI that composes poems and paints work like a beast of burden
 	<img src="./asset/README/image-20250717200527296.png"
          style="height:137px"/>
 </details>
-
 <!-- ------------------------------------------------------ -->
 
 <details>
 <summary>目标检测</summary>
-<img src="./asset/README/013.jpg"
-         style="height:137px"/>
 <img src="./asset/README/labels.jpg"
          style="height:137px"/>
+<img src="./asset/README/013.jpg"
+         style="height:137px"/>
+<img src="./asset/README/193067B0080.jpg"
+         style="height:137px"/>
 </details>
+
 
 <!-- ------------------------------------------------------ -->
 
